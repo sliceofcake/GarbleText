@@ -17,3 +17,6 @@ I want to give a presentation in which I will be showing a screen capture of a w
   
 Security Note  
 This script intentionally keeps the general structure of the text. For most cases, this is safe, and for most cases, this is what you want. However, you're more-or-less playing a game of Wheel of Fortune with your audience, as the pattern "A'a Aaaaa" could be reasonably back-converted to "I'm Ready", since there aren't that many combinations that could fit that description. If you had the result of a Yes/No vote on the webpage, it would be fairly obvious that the pattern "Aaa" was "Yes" and the pattern "Aa" was "No".  For critically confidential text, you need to take more serious measures to protect the original text, at the cost of appearances.  
+  
+Completeness Note  
+There are many ways of putting text on a webpage. You can include text through dynamically-generated images, the CSS "content" property, the HTML input "placeholder" property, and other ways. This script will address standard cases, and may not cover every case, for complexity reasons. Please always review the result of the garbling before using the garbled page further.  
